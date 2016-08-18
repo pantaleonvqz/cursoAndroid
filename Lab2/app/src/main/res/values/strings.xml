@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="cel">Celsius</string>
+    <string name="far">Fahrenheit</string>
+    <string name="kel">Kelvin</string>
+</resources>

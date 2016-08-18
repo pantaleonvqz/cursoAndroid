@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="mytexto">ingrese su usuario</string>
+    <string name="mybotton">Iniciar</string>
+    <string name="cadena">cadena</string>
+</resources>
